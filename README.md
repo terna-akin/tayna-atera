@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tayna-atera
-- 👀 I’m interested in AI Safety & Governanc
+- 👀 I’m interested in AI Safety & Governance
 - 💞️ I’m looking to collaborate on AI Safety projects for startups
 - 📫 How to reach me ... ternaatera@gmail.com
 
