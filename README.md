@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tayna-atera
-- 👀 I’m interested in Product Management
-- 🌱 I’m currently learning Product Development
-- 💞️ I’m looking to collaborate on Proeject Development projects for startups
+- 👀 I’m interested in AI Safety & Governanc
+- 💞️ I’m looking to collaborate on AI Safety projects for startups
 - 📫 How to reach me ... ternaatera@gmail.com
 
 <!---
